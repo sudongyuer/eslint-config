@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "eslint eslint-config",
   "main": "index.js",
-  "private": "true",
   "scripts": {
     "changeset": "changeset add",
     "build:all": "pnpm turbo run build",
