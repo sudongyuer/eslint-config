@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sudongyuer/eslint-config#readme",
   "devDependencies": {
+    "@changesets/cli": "^2.23.0",
     "turbo": "^1.2.16"
   }
 }
