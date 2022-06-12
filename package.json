@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "description": "eslint eslint-config",
   "main": "index.js",
-  "private":"true",
+  "private": "true",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"   
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sudongyuer/eslint-config/issues"
   },
-  "homepage": "https://github.com/sudongyuer/eslint-config#readme"
+  "homepage": "https://github.com/sudongyuer/eslint-config#readme",
+  "devDependencies": {
+    "turbo": "^1.2.16"
+  }
 }
