@@ -1,0 +1,24 @@
+{
+  "name": "@sudongyuer/eslint-config-monorepo",
+  "version": "0.0.0",
+  "description": "eslint eslint-config",
+  "main": "index.js",
+  "private":"true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudongyuer/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "sudongyuer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudongyuer/eslint-config/issues"
+  },
+  "homepage": "https://github.com/sudongyuer/eslint-config#readme"
+}
