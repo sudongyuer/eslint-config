@@ -54,7 +54,6 @@ Create `.vscode/settings.json`
 ```
 
 ## Check Also
-
 ## License
 
 MIT
