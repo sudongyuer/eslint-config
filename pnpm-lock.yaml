@@ -39,6 +39,12 @@ importers:
     devDependencies:
       eslint: 8.19.0
 
+  packages/fixture:
+    specifiers:
+      '@sudongyuer/eslint-config-basic': workspace:*
+    devDependencies:
+      '@sudongyuer/eslint-config-basic': link:../basic
+
 packages:
 
   /@babel/code-frame/7.16.7:

@@ -1,0 +1,6 @@
+{
+  "extends": "@sudongyuer/eslint-config-basic",
+  "rules": {
+    "no-console": "error"
+  }
+}
