@@ -1,0 +1,44 @@
+{
+  "name": "@sudongyuer/eslint-config-basic",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsonc": "^2.2.1",
+    "eslint-plugin-markdown": "^2.2.1",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "eslint-plugin-yml": "^1.0.0",
+    "jsonc-eslint-parser": "^2.1.0",
+    "yaml-eslint-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  },
+  "files": [
+    "*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudongyuer/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "sudongyuer (https://github.com/sudongyuer/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudongyuer/eslint-config/issues"
+  },
+  "homepage": "https://github.com/sudongyuer/eslint-config#readme"
+}
