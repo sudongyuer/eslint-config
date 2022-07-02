@@ -1,5 +1,5 @@
 {
-  "extends": "@sudongyuer/eslint-config-basic",
+  "extends": "@sudongyuer/eslint-config-ts",
   "rules": {
     "no-console": "error"
   }
