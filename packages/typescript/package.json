@@ -1,0 +1,27 @@
+{
+  "name": "@sudongyuer/eslint-config-ts",
+  "version": "0.0.0",
+  "description": "",
+  "author": "sudongyuer (https://github.com/sudongyuer/)",
+  "license": "MIT",
+  "homepage": "https://github.com/sudongyuer/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@sudongyuer/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
