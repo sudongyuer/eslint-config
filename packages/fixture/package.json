@@ -1,14 +1,15 @@
 {
   "name": "fixture",
   "version": "1.0.0",
+  "private": true,
   "description": "",
+  "author": "",
+  "license": "ISC",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@sudongyuer/eslint-config-basic":"workspace:*"
-  },
-  "author": "",
-  "license": "ISC"
+    "@sudongyuer/eslint-config-basic": "workspace:*"
+  }
 }
