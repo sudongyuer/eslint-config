@@ -1,6 +1,12 @@
 # @sudongyuer/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@sudongyuer/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@sudongyuer/eslint-config)
+<p align="center">
+<img src="https://cdn.staticaly.com/gh/sudongyuer/image-bed@master/20220703/icon.2c5k1lu0fkkk.webp" height="150">
+</p>
+
+<p align="center">
+  <a href="https://npmjs.com/package/@sudongyuer/eslint-config"><img src="https://img.shields.io/npm/v/@sudongyuer/eslint-config?color=a1b858&label="></a>
+<p>
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -8,6 +14,7 @@
 - Lint also for json, yaml, markdown
 - Sorted imports, dangling commas for cleaner commit diff
 - Reasonable defaults, best practices, only one-line of config
+
 
 ## Usage
 
