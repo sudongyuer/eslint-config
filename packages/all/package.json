@@ -1,0 +1,38 @@
+{
+  "name": "@sudongyuer/eslint-config",
+  "version": "0.0.0",
+  "description": "Sudongyuer's ESLint config",
+  "author": "sudongyuer (https://github.com/sudongyuer/)",
+  "license": "MIT",
+  "homepage": "https://github.com/sudongyuer/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@sudongyuer/eslint-config-react": "workspace:*",
+    "@sudongyuer/eslint-config-vue": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsonc": "^2.2.1",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "eslint-plugin-vue": "^9.0.1",
+    "eslint-plugin-yml": "^1.0.0",
+    "jsonc-eslint-parser": "^2.1.0",
+    "yaml-eslint-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
