@@ -50,7 +50,7 @@ For example:
 ### Config WebStorm auto fix
 
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3tsfxzi9nj215d0u0tbv.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3tvp96c74j212l0u077u.jpg)
 
 ### Config VS Code auto fix
 
