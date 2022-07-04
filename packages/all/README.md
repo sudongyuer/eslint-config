@@ -65,6 +65,10 @@ Create `.vscode/settings.json`
 }
 ```
 
+## Author
+
+sudongyuer email:976499226@qq.com
+
 ## License
 
 MIT
