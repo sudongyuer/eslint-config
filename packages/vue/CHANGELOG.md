@@ -1,5 +1,13 @@
 # @sudongyuer/eslint-config-vue
 
+## 0.1.1
+
+### Patch Changes
+
+- 7ad7d4a: close react jsx-indent-props
+- Updated dependencies [7ad7d4a]
+  - @sudongyuer/eslint-config-ts@0.1.1
+
 ## 0.1.0
 
 ### Minor Changes

@@ -1,6 +1,6 @@
 {
   "name": "@sudongyuer/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sudongyuer's ESLint config",
   "author": "sudongyuer (https://github.com/sudongyuer/)",
   "license": "MIT",
