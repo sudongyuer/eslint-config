@@ -1,5 +1,13 @@
 # @sudongyuer/eslint-config-react
 
+## 0.1.2
+
+### Patch Changes
+
+- 1aabab2: update jsx-indent
+- Updated dependencies [1aabab2]
+  - @sudongyuer/eslint-config-ts@0.1.2
+
 ## 0.1.1
 
 ### Patch Changes
