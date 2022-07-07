@@ -1,5 +1,11 @@
 # @sudongyuer/eslint-config-basic
 
+## 0.1.3
+
+### Patch Changes
+
+- 6c10842: update jsx indent rule
+
 ## 0.1.2
 
 ### Patch Changes

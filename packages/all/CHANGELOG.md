@@ -1,5 +1,14 @@
 # @sudongyuer/eslint-config
 
+## 0.1.3
+
+### Patch Changes
+
+- 6c10842: update jsx indent rule
+- Updated dependencies [6c10842]
+  - @sudongyuer/eslint-config-react@0.1.3
+  - @sudongyuer/eslint-config-vue@0.1.3
+
 ## 0.1.2
 
 ### Patch Changes
