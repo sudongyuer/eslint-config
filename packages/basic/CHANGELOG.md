@@ -1,5 +1,11 @@
 # @sudongyuer/eslint-config-basic
 
+## 0.1.2
+
+### Patch Changes
+
+- 1aabab2: update jsx-indent
+
 ## 0.1.1
 
 ### Patch Changes
